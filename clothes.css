@@ -1,0 +1,61 @@
+body{
+    background-image:url('https://image.freepik.com/free-photo/comfort-warm-outfit-cold-weather_72402-251.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-size:20px;
+
+}
+
+#clothes{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    
+}
+
+/* div>img{
+    padding:10px;
+    align-content: space-around;
+    float: right;
+} */
+
+img{
+    height: 200px;
+    width: 300px;
+    align-content: space-around;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+.wear{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+nav{
+    text-align:right;
+    
+}
+
+a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+}
+
+nav>ul>a:hover{
+    box-shadow:5 5 10px;
+    background-color:brown;
+}
+
+button{
+    background-color:brown;
+    padding:10px;
+} 
+
+/*p{
+    margin-left: 5px;
+}/*

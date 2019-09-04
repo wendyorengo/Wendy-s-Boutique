@@ -1,0 +1,81 @@
+body{
+    background-image:url('https://aws1.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/1/9/e/19efd21ffb63999abbd33dd305464276cd1ed654.jpeg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    font-family:Comic Sans;
+    padding: 10px;
+        
+}
+
+marquee{
+  color:gold;
+  font-size:5em;
+  font-style:italic;
+}
+
+#about{
+    font-family:Cambria;
+    
+
+}
+
+
+nav{
+  text-align:right;
+  font-size:20px;
+  
+  
+  
+}
+
+/*#container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}*/
+
+ul>li{
+  display:inline-block;
+}
+a{
+  text-decoration:none;
+  padding:5px;
+  color:white;
+}
+
+nav>ul>li>a:hover{
+  box-shadow:5 5 10px;
+  background-color:brown;
+}
+
+/*#clothes>div>img{
+  max-width: 200px;
+  
+  
+}*/
+
+#clothes, #shoes, #jewellery {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+div>img {
+  padding: 5px;
+}
+
+#clothes, #shoes, #jewellery{
+  position: center;
+}
+
+#contacts{
+  text-align:center;
+
+}
+h1{
+  color:white;
+font-size:16em;
+}
+  
+

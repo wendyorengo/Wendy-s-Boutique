@@ -73,9 +73,17 @@ div>img {
   text-align:center;
 
 }
+p{
+  color: white;
+  font-size: 5em;
+}
 h1{
   color:white;
-font-size:16em;
+font-size:5em;
+}
+.para{
+  color: aqua;
+  font-size: 4em;
 }
   
 

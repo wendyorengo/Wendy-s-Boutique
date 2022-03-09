@@ -1,5 +1,6 @@
 body{
-    background-image:url('https://bit.ly/3tHcArN.');
+    background-image:url(
+    file:///home/student/Downloads/vic.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
     background-position: center;
@@ -9,7 +10,7 @@ body{
 }
 
 marquee{
-  color:gold;
+  color:rgb(32, 31, 24);
   font-size:5em;
   font-style:italic;
 }
@@ -41,7 +42,7 @@ ul>li{
 a{
   text-decoration:none;
   padding:5px;
-  color:white;
+  color:rgb(78, 172, 24);
 }
 
 nav>ul>li>a:hover{

@@ -9,7 +9,7 @@ body{
 }
 
 marquee{
-  color:gold;
+  color:(gold);
   font-size:5em;
   font-style:italic;
 }

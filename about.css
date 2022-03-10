@@ -8,7 +8,7 @@ body{
 
 }
 .overlay{
-    background-color: rgba(0,0,0, 0.5);
+    background-color: rgba(10, 216, 243, 0.5);
     height: 100%;
   }
 
@@ -25,5 +25,5 @@ a{
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:brown;
+    background-color:rgb(240, 9, 170);
 }

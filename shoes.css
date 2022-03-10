@@ -28,7 +28,7 @@ nav{
 a{
     text-decoration:none;
     padding:10px;
-    color:white; 
+    color:whitesmoke; 
 }
 
 nav>ul>a:hover{
@@ -37,7 +37,7 @@ nav>ul>a:hover{
 
 }
 button{
-    background-color:brown;
+    background-color:orangered;
     padding:10px;
 } 
 

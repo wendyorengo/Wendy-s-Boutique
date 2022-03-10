@@ -21,7 +21,7 @@ a{
 
 nav>ul>a:hover{
   box-shadow:5 5 10px;
-  background-color:brown;
+  background-color:rgb(31, 16, 235);
 }
 
   
@@ -29,7 +29,7 @@ nav>ul>a:hover{
 footer{
   text-align:center;
   font-size:3em;
-  text-decoration-color:blueviolet;
+  text-decoration-color:rgb(224, 240, 5);
   align-items:bottom;
   position: relative;
   top: 700px;
@@ -41,7 +41,7 @@ table {
 }
 
 table, th, td {
-  border: 1px solid black;
+  border: 1px solid rgb(40, 11, 172);
   padding:40px;
   font-size:30px;
 

@@ -48,11 +48,11 @@ a{
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:brown;
+    background-color:rgb(231, 18, 185);
 }
 
 button{
-    background-color:brown;
+    background-color:rgb(241, 11, 184);
     padding:10px;
 } 
 

@@ -1,8 +1,12 @@
 body{
-    color:white;
-    font-size:50px;
+    color:rgb(61, 48, 8);
+    font: size 15px;
+    text-align: center;
+    width: 100%;
+    height: 100px;
+
     
-    background-image:url('https://image.freepik.com/free-photo/comfort-warm-outfit-cold-weather_72402-251.jpg');
+    background-image:url('file:///home/student/Downloads/womenssss.jpeg');
     background-repeat:no-repeat;
     background-size:cover;
 
@@ -14,16 +18,16 @@ body{
 
 nav{
     text-align:right;
-    font-size:20px;
+    font: size 24px;
 }
 
 a{
     text-decoration:none;
     padding:10px;
-    color:white;
+    color:rgb(65, 29, 6);
 }
 
 nav>ul>a:hover{
-    box-shadow:5 5 10px;
-    background-color:brown;
+    box-shadow:5 10 15px;
+    background-color:rgb(42, 75, 165);
 }

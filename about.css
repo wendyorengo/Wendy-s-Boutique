@@ -1,5 +1,5 @@
 body{
-    color:white;
+    color:black;
     font-size:50px;
     
     background-image:url('https://image.freepik.com/free-photo/comfort-warm-outfit-cold-weather_72402-251.jpg');
@@ -13,17 +13,17 @@ body{
   }
 
 nav{
-    text-align:right;
+    text-align:left;
     font-size:20px;
 }
 
 a{
-    text-decoration:none;
+    text-decoration:non;
     padding:10px;
-    color:white;
+    color:maroon;
 }
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:brown;
+    background-color:blue;
 }

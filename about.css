@@ -20,10 +20,10 @@ nav{
 a{
     text-decoration:none;
     padding:10px;
-    color:white;
+    color:blue;
 }
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
-    background-color:brown;
+    background-color:rgb(39, 100, 39);
 }

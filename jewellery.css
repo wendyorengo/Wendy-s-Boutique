@@ -3,7 +3,7 @@ body{
     background-repeat:no-repeat;
     background-size:cover;
     font-size:20px;
-    background-color:rgba(0, 0, 0, 0.5)
+    background-color:rgba(134, 119, 119, 0.5)
 
 }
 
@@ -35,10 +35,17 @@ a{
 
 nav>ul>a:hover{
     box-shadow:5 5 10px;
+<<<<<<< HEAD
     background-color:rgb(131, 40, 40);
 }
 button{
     background-color:rgb(122, 32, 32);
+=======
+    background-color:rgb(129, 45, 45);
+}
+button{
+    background-color:rgb(136, 80, 80);
+>>>>>>> all changes
     padding:10px;
 } 
   

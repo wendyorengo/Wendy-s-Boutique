@@ -36,6 +36,7 @@ a{
 nav>ul>a:hover{
     box-shadow:5 5 10px;
 <<<<<<< HEAD
+<<<<<<< HEAD
     background-color:rgb(131, 40, 40);
 }
 button{
@@ -46,6 +47,12 @@ button{
 button{
     background-color:rgb(136, 80, 80);
 >>>>>>> all changes
+=======
+    background-color:rgb(129, 45, 45);
+}
+button{
+    background-color:rgb(136, 80, 80);
+>>>>>>> 531fd32d2d6e1cedaeb8151318724a8be8c72219
     padding:10px;
 } 
   

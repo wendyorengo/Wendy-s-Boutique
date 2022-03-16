@@ -1,5 +1,6 @@
 body{
-    background-image:url('susan.jpg');
+
+    background-image:url('https://i.pinimg.com/564x/d6/4f/44/d64f44fe57b445b7a8c0c74b46f98fac.jpg');
     background-repeat: no-repeat;
     background-size:fill;
     background-position: center;
@@ -41,7 +42,7 @@ ul>li{
 a{
   text-decoration:none;
   padding:5px;
-  color:white;
+  color:black;
 }
 
 nav>ul>li>a:hover{

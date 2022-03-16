@@ -29,13 +29,15 @@ nav{
 a{
     text-decoration:none;
     padding:10px;
-    color:white;
+    color:rgb(211, 208, 208);
     
 }
 
 nav>ul>a:hover{
-    box-shadow:5 5 10px;
-    background-color:rgb(131, 40, 40);
+
+    box-shadow:5 10 15px;
+    background-color:brown;
+
 }
 button{
     background-color:rgb(122, 32, 32);

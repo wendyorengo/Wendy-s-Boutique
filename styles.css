@@ -1,7 +1,9 @@
 body{
+
     background-repeat: no-repeat ;
     background-color: aquamarine;
     background-size:fill;
+
     background-position: center;
     font-family:open Sans;
     padding: 12px;
@@ -41,7 +43,7 @@ ul>li{
 a{
   text-decoration:none;
   padding:5px;
-  color:white;
+  color:rgb(218, 23, 23);
 }
 
 nav>ul>li>a:hover{
@@ -74,7 +76,7 @@ div>img {
 
 }
 h1{
-  color:white;
+  color:rgb(180, 12, 12);
 font-size:16em;
 }
   

@@ -1,10 +1,10 @@
 body{
-    background-image:url('https://aws1.discourse-cdn.com/pocketgems/uploads/episodeinteractive/original/4X/1/9/e/19efd21ffb63999abbd33dd305464276cd1ed654.jpeg');
+   /* // background-image:url('susan.jpg'); */
+   background-color: rgb(40, 212, 189);
     background-repeat: no-repeat;
-    background-size:cover;
     background-position: center;
-    font-family:Comic Sans;
-    padding: 10px;
+    font-family:open Sans;
+    padding: 12px;
         
 }
 
@@ -22,7 +22,7 @@ marquee{
 
 
 nav{
-  text-align:right;
+  text-align:center;
   font-size:20px;
   
   
@@ -41,7 +41,7 @@ ul>li{
 a{
   text-decoration:none;
   padding:5px;
-  color:white;
+  color:rgb(218, 23, 23);
 }
 
 nav>ul>li>a:hover{
@@ -74,7 +74,7 @@ div>img {
 
 }
 h1{
-  color:white;
+  color:rgb(180, 12, 12);
 font-size:16em;
 }
   

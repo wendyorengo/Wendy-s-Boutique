@@ -1,6 +1,6 @@
 body{
-    background-image:url('susan.jpg');
-    background-repeat: no-repeat;
+    background-repeat: no-repeat ;
+    background-color: aquamarine;
     background-size:fill;
     background-position: center;
     font-family:open Sans;

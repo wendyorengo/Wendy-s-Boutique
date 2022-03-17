@@ -1,10 +1,14 @@
 body{
+
     background-image:url('https://media.istockphoto.com/photos/interior-of-a-store-selling-womens-clothes-and-accessories-picture-id865393164?k=20&m=865393164&s=612x612&w=0&h=74SFnZ_ZUjRuQGNzgpCs2vRnO4Jd7QIEkTgP3K-0ZB4=');
+
+   /* // background-image:url('susan.jpg'); */
+   background-color: rgb(40, 212, 189);
+
     background-repeat: no-repeat;
-    background-size:cover;
     background-position: center;
-    font-family:Comic Sans;
-    padding: 10px;
+    font-family:open Sans;
+    padding: 12px;
         
 }
 
@@ -22,7 +26,7 @@ marquee{
 
 
 nav{
-  text-align:right;
+  text-align:center;
   font-size:20px;
   
   
@@ -41,7 +45,7 @@ ul>li{
 a{
   text-decoration:none;
   padding:5px;
-  color:white;
+  color:rgb(218, 23, 23);
 }
 
 nav>ul>li>a:hover{
@@ -74,7 +78,7 @@ div>img {
 
 }
 h1{
-  color:white;
+  color:rgb(180, 12, 12);
 font-size:16em;
 }
   

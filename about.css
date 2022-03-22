@@ -9,10 +9,6 @@ body{
     background-size:fill;
 
 }
-.overlay{
-    background-color: rgba(49, 49, 49, 0.5);
-    height: 100%;
-  }
 
 nav{
     text-align:center;
@@ -26,6 +22,21 @@ a{
 }
 
 nav>ul>a:hover{
-    box-shadow:5 10 50px;
-    background-color:rgb(68, 67, 67);
+    box-shadow:5 5 10px;
+    background-color:brown;
 }
+.wend{
+    display: flex;
+   margin-top: -45px;
+  }
+  h2{
+    font-family: 'Gabriela', serif;
+    /* font-size: 7em; */
+    text-align: center;
+  }
+  .pap{
+    font-size: 30px;
+  }
+#about {
+    background-color: rgba(0, 0, 0, 0.774);
+  }

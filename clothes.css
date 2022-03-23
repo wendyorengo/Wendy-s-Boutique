@@ -43,12 +43,12 @@ nav{
 a{
     text-decoration:none;
     padding:10px;
-    color:white;
+    color:rgb(44, 30, 172);
 }
 
 nav>ul>a:hover{
-    box-shadow:5 10 15px;
-    background-color:rgb(139, 105, 105);
+    box-shadow:5 5 10px;
+    background-color:rgb(206, 50, 50);
 }
 
 button{

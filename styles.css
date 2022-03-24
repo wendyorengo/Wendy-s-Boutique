@@ -10,8 +10,8 @@ body{
 }
 
 marquee{
-  color:rgb(32, 31, 24);
-  font-size:5em;
+  color: blueviolet(32, 31, 24);
+  font-size:6em;
   font-style:italic;
 }
 
@@ -75,8 +75,8 @@ div>img {
 
 }
 h1{
-  color:black;
-font-size:16em;
+  color:aqua(78, 172, 24);
+font-size:14em;
 }
   
 
